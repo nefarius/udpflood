@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1316442666 source:/home/nefarius/Projekte/udpflood/main.c
+	<stdio.h>
+	<stdlib.h>
+	<libgen.h>
+	<arpa/inet.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	<memory.h>
+	<time.h>
+	<pthread.h>
+	<unistd.h>
+	<ctype.h>
+
