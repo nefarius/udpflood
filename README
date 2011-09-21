@@ -1,5 +1,6 @@
 udpflood is a small command line utility, which can create and send udp packets
-filled with random data to a specified target. It's ipv6 ready and very easy to use, command line switches:
+filled with random data to a specified target. It's ipv6 ready and very easy to
+use, command line switches:
 
 -t target
 	the target hostname or ipv4/ipv6 address
